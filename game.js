@@ -1,1 +1,0 @@
-console.log('Wasteland Warriors Spielmechanik startet...');
