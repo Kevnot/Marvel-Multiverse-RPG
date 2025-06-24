@@ -1,26 +1,14 @@
 # Wasteland Warriors
 
-Ein postapokalyptisches, comic-sci-fi Spiel im Browser – auch spielbar auf Android als PWA.
+Ein postapokalyptisches PWA-Game im Stil der Marvel Wastelands.
+
+## Features
+- Comic/Sci-Fi Grafik
+- Touchsteuerung
+- Offline spielbar (PWA)
+- Levelsystem mit JSON-Maps
 
 ## Installation
-
-1. Repository klonen oder ZIP entpacken
-2. Öffnen in Browser (index.html)
-3. Auf Android: *Zum Startbildschirm hinzufügen* → funktioniert offline
-
-## Steuerung
-
-- Menü: ← → zur Auswahl, ENTER zum Start
-- Spiel: Pfeiltasten zur Bewegung
-
-## Ausgewählte Charaktere
-
-- Captain Wasteland  
-- Shadowblade  
-- Techno-Wizard  
-- Phoenix  
-- Ghost Archer  
-
-## Lizenz
-
-Kostenlos, nicht-kommerziell. Fanprojekt.
+1. Auf GitHub hochladen
+2. GitHub Pages aktivieren
+3. Fertig!
